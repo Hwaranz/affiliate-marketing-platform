@@ -417,8 +417,8 @@ ChatMessage         - Tin nhắn chat
 ### **Bước 1: Clone repository**
 
 ```bash
-git clone https://github.com/ttung205/Affilate-Marketing-Platform
-cd ttung-laravel
+git clone https://github.com/Hwaranz/affiliate-marketing-platform
+cd affiliate-marketing-platform
 ```
 
 ### **Bước 2: Cài đặt dependencies**
